@@ -1,0 +1,8 @@
+{
+  "user_name": "guest",
+  "password": "guest",
+  "server_list": [
+    "localhost",
+    "192.168.0.1"
+  ]
+}
